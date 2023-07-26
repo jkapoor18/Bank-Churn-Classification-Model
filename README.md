@@ -1,6 +1,6 @@
 # Bank Churn Classification Model
 
-![bank](https://user-images.githubusercontent.com/121285271/229742440-c6d51cdc-ca5f-4bb2-ab3a-68c88583276b.jpg)
+![bank](https://static3.depositphotos.com/1003902/164/i/600/depositphotos_1649358-stock-photo-bank.jpg)
 
 # About Project
 This project involves analyzing the customer churn rate in order to understand why customers leave and then building a classification model to predict whether a customer will churn out or not so that proper actions can be taken to prevent this churn.
